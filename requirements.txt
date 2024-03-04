@@ -3,4 +3,7 @@ pandas
 matplotlib
 openpyxl
 statsmodels
-scipy 
+scipy
+plotly
+seaborn
+nbformat 
